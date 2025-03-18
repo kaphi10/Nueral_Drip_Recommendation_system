@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+openai
+chromadb
+python-dotenv
+streamlit     
