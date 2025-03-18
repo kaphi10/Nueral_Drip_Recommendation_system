@@ -2,6 +2,7 @@ import os
 import csv
 import time
 from dotenv import load_dotenv
+import sqlite3
 import chromadb
 from openai import OpenAI
 import logging
