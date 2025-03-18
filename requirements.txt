@@ -5,6 +5,6 @@ pandas
 numpy
 openai
 chromadb
-pysqlite3
+sqlite3
 python-dotenv
 streamlit     
